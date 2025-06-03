@@ -9,20 +9,6 @@ Atualmente sou **Trainee na Criptonic & Co.** e aluno no programa **Programadore
 
 ---
 
-## 🚀 **Sobre mim:**
-- 🔭 Atualmente atuando como **Trainee na Criptonic & Co.**
-- 🎓 Formação pela **Programadores do Amanhã** com certificações nos módulos de:
-  - Desenvolvimento Front-End
-  - Desenvolvimento Back-End
-  - Banco de Dados
-- 🌱 Aprendendo e aprimorando:
-  - Microsserviços
-  - Programação Orientada a Objetos (POO)
-  - Testes unitários (Jest)
-  - Metodologias ágeis
-
----
-
 ## 🧠 **Habilidades Técnicas:**
 
 ### 🔥 Front-End:
