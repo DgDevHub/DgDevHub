@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/7/32/ZvhbSK.gif" width="350px" align="right">
+<img src="https://cdn.wallpapersafari.com/7/32/ZvhbSK.gif" width="350px" align="center">
 
 # 👋 Olá, eu sou o Dg!
 
