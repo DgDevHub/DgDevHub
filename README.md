@@ -6,9 +6,12 @@
 
 Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções criativas.  
 Atualmente sou **Trainee na Criptonic & Co.** e aluno no programa **Programadores do Amanhã**, onde venho me capacitando como desenvolvedor web e mobile.
- <a href="https://dg-dev-app.vercel.app/" target="_blank" title="Portfólio">
+
+---
+
+<a href="https://dg-dev-app.vercel.app/" target="_blank" title="Portfólio">
      Visite meu Portfólio -> 
-  </a>
+ </a>
 
 
 ---
