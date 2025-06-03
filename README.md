@@ -1,4 +1,4 @@
-<img src="https://cdn.wallpapersafari.com/7/32/ZvhbSK.gif" width="450px" align="center"/>
+<img src="https://cdn.wallpapersafari.com/7/32/ZvhbSK.gif" width="100%" align="center"/>
 
 ---
 
