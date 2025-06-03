@@ -79,19 +79,19 @@ Atuando no desenvolvimento de sistemas web e mobile, utilizando tecnologias mode
 ## 🔗 **Vamos nos conectar?**
 
 <p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5575988258686" title="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=5575988258686" target="_blank" title="WhatsApp">
     <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
   </a>
   
-  <a href="https://www.instagram.com/apenasodg/" title="Instagram">
+  <a href="https://www.instagram.com/apenasodg/" target="_blank" title="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
   
-  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   
-  <a href="https://www.facebook.com/diegoo.silva.1800/" title="Facebook">
+  <a href="https://www.facebook.com/diegoo.silva.1800/" target="_blank" title="Facebook">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
