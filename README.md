@@ -1,4 +1,4 @@
-<img src="https://external-preview.redd.it/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE.gif?width=600&height=300&s=710df0c31b0bf441ce1ea81c1045f8a16c305569" width="100%" height="230px"  align="center"/>
+<img src="https://external-preview.redd.it/tC7pN4zTFUNYMCZ8iZ6qm1r3O1Koza0TF0yUNi6jpkE.gif?width=600&height=300&s=710df0c31b0bf441ce1ea81c1045f8a16c305569" width="80%" height="200px"  align="center"/>
 
 ---
 
