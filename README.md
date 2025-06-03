@@ -10,7 +10,7 @@ Atualmente sou **Trainee na Criptonic & Co.** e aluno no programa **Programadore
 ---
 
 <a href="https://dg-dev-app.vercel.app/" target="_blank" title="Portfólio">
-     Visite meu Portfólio -> 
+     <- Visite meu Portfólio -> 
  </a>
 
 
