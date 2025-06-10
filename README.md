@@ -1,4 +1,4 @@
-<img src="https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/002/429/881/datas/original.gif" width="96%" height="210px"  align="center"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE9568F4Kc97g/profile-displaybackgroundimage-shrink_350_1400/B4DZda_VVEG8Ac-/0/1749578242031?e=1755129600&v=beta&t=wtJUaRWOsv8kSrx_12Tetdz22CWRMnzjmtoXaF_NKCs" width="96%" height="210px"  align="center"/>
 
 ---
 
