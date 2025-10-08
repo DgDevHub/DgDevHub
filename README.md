@@ -78,7 +78,7 @@ Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções
 
 ## 💼 **Experiência:**
 - 🏢 **Trainee – Criptonic & Co.**  
-Atuando no desenvolvimento de sistemas web e mobile, utilizando tecnologias modernas como React, Node.js, TypeScript, Next.js e microsserviços.
+Atuei no desenvolvimento de sistemas web e mobile, utilizando tecnologias modernas como React, Node.js, TypeScript, Next.js e microsserviços.
 
 ---
 
