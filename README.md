@@ -5,7 +5,6 @@
 # 👋 Olá, eu sou o Dg!
 
 Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções criativas.  
-Atualmente sou **Trainee na Criptonic & Co.** e aluno no programa **Programadores do Amanhã**, onde venho me capacitando como desenvolvedor web e mobile.
 
 ---
 
