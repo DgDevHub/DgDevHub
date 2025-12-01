@@ -1,4 +1,4 @@
-<img src="[https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1762992000&v=beta&t=DdCugdiu1WDjPTRGRug7-hHncBz353Prx-4coRWq3gw](https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM)" width="96%" height="210px"  align="center"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM" width="96%" height="210px"  align="center"/>
 
 ---
 
