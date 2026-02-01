@@ -1,23 +1,38 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM" width="96%" height="210px"  align="center"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM" width="96%" height="210px" align="center"/>
 
 ---
 
 # 👋 Olá, eu sou o Dg!
 
 Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções criativas.  
+Transformo ideias em experiências digitais funcionais, modernas e bem pensadas.
 
 ---
 
 <a href="https://dg-dev-app.vercel.app/" target="_blank" title="Portfólio">
-                                                                 <- Visite meu Portfólio -> 
- </a>
-
+  <- Visite meu Portfólio ->
+</a>
 
 ---
 
-## 🧠 **Habilidades Técnicas:**
+## 📊 Estatísticas GitHub
 
-### 🔥 Front-End:
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=DgDevHub&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DgDevHub&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
+---
+
+## 🧠 Habilidades Técnicas
+
+### 🔥 Front-End
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -28,7 +43,7 @@ Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções
   <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
-### ⚙️ Back-End:
+### ⚙️ Back-End
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -38,14 +53,14 @@ Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </p>
 
-### 🗄️ Banco de Dados:
+### 🗄️ Banco de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🧰 Ferramentas & Tecnologias:
+### 🧰 Ferramentas & Tecnologias
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -60,48 +75,53 @@ Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções
 
 ---
 
-## 🏆 **Certificações:**
-- ✔️ **Certificado de Conclusão | Módulo 1** – *Programadores do Amanhã*  
-*(HTML, CSS, Git, GitHub, JSON, Fundamentos de Programação, UI/UX)*  
-- ✔️ **Certificado de Conclusão | Módulo 2** – *Programadores do Amanhã*  
-*(JavaScript, API REST, Desenvolvimento Front-End e Back-End)*  
-- ✔️ **Certificado de Conclusão | Módulo 3** – *Programadores do Amanhã*  
-*(Node.js, MySQL, SQLite, Microsserviços, Banco de Dados e Projetos Full Stack)*  
+## 🏆 Certificações
+- ✔️ **Módulo 1 – Programadores do Amanhã**  
+HTML, CSS, Git, GitHub, JSON, Fundamentos de Programação, UI/UX  
+- ✔️ **Módulo 2 – Programadores do Amanhã**  
+JavaScript, API REST, Front-End e Back-End  
+- ✔️ **Módulo 3 – Programadores do Amanhã**  
+Node.js, MySQL, SQLite, Microsserviços e Projetos Full Stack  
 
 ---
 
-## 🌐 **Idiomas:**
+## 🌐 Idiomas
 - 🇧🇷 Português – Nativo  
-- 🇺🇸 Inglês – Básico *(em aprendizado)*  
+- 🇺🇸 Inglês – Básico (em aprendizado)
 
 ---
 
-## 💼 **Experiência:**
+## 💼 Experiência
 - 🏢 **Trainee – Criptonic & Co.**  
-Atuei no desenvolvimento de sistemas web e mobile, utilizando tecnologias modernas como React, Node.js, TypeScript, Next.js e microsserviços.
+Atuação no desenvolvimento de sistemas web e mobile com React, Node.js, TypeScript, Next.js e microsserviços.
 
 ---
 
-## 🔗 **Vamos nos conectar?**
+## 🔗 Vamos nos conectar?
 
 <p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5575988258686" target="_blank" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/>
+  <a href="https://api.whatsapp.com/send?phone=5575988258686" target="_blank">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  
-  <a href="https://www.instagram.com/apenasodg/" target="_blank" title="Instagram">
+  <a href="https://www.instagram.com/apenasodg/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/" target="_blank" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  
-  <a href="https://www.facebook.com/diegoo.silva.1800/" target="_blank" title="Facebook">
+  <a href="https://www.facebook.com/diegoo.silva.1800/" target="_blank">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## ✨ **"Transformando desafios em soluções digitais."**
+## 🐍 Jogo da Cobrinha (contribuições)
+
+<p align="center">
+  <img src="https://github.com/DgDevHub/DgDevHub/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+✨ **"Transformando desafios em soluções digitais."**
