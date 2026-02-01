@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Dg!</h1>
 
 <p align="center">
-  Desenvolvedor <strong>Full Stack</strong>, apaixonado por tecnologia, design e soluções criativas.<br/>
+  Desenvolvedor Full Stack apaixonado por tecnologia, design e soluções criativas.<br/>
   Transformo ideias em experiências digitais modernas, funcionais e bem pensadas.
 </p>
 
@@ -13,102 +13,68 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🚀 Sobre mim
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=DgDevHub&show_icons=true&theme=radical&hide_border=true"
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DgDevHub&layout=compact&theme=radical&hide_border=true"
-    height="165"
-  />
-  
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/streak?username=DgDevHub&theme=radical&hide_border=true"
-    height="150"
-  />
-</p>
-
+- 💻 Desenvolvedor Full Stack Web  
+- 🎨 Forte interesse em UI/UX e Design  
+- 🧠 Sempre aprendendo novas tecnologias  
+- 🛠️ Foco em soluções simples, performáticas e escaláveis  
+- 📍 Praia Grande, SP  
 
 ---
 
-## 🧠 Habilidades Técnicas
+## 🧰 Tecnologias & Ferramentas
 
-### 🔥 Front-end
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-</p>
-
-### ⚙️ Back-end
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/API_REST-006400?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microsserviços-FF6F61?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POO-9C27B0?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-</p>
-
-### 🗄️ Banco de dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</p>
-
-### 🧰 Ferramentas
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-181818?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-181818?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-181818?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-181818?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/React-181818?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-181818?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+  <img src="https://img.shields.io/badge/Node.js-181818?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/Git-181818?style=for-the-badge&logo=git&logoColor=F05032"/>
 </p>
 
 ---
 
-## 🏆 Certificações
-- ✔️ Programadores do Amanhã — Módulos 1, 2 e 3  
-  HTML, CSS, JavaScript, API REST, Node.js, Banco de Dados e Projetos Full Stack
+## 📌 Projetos em Destaque
+
+- 🎲 **Critei VTT**  
+  Plataforma de RPG de mesa online focada em experiência fluida, mobile e sem downloads.
+
+- 🐾 **Audote**  
+  Sistema de adoção de pets com foco em impacto social e facilidade de uso.
+
+- 🧪 Projetos experimentais em Frontend, Backend e Design Systems.
 
 ---
 
-## 🌐 Idiomas
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Básico (em aprendizado)
-
----
-
-## 💼 Experiência
-- 🏢 **Trainee – Criptonic & Co.**  
-  Desenvolvimento de aplicações web e mobile com React, Node.js, TypeScript e Next.js.
-
----
-
-## 🔗 Conecte-se comigo
+## 📊 GitHub em números
 
 <p>
-  <a href="https://api.whatsapp.com/send?phone=5575988258686">
-    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
+  ⭐ Repositórios públicos em constante evolução  
+  🔄 Commits frequentes e aprendizado contínuo  
+  🤝 Colaboração em projetos e ideias criativas  
+</p>
+
+> Prefiro mostrar consistência e evolução real ao invés de números inflados.
+
+---
+
+## 📫 Onde me encontrar
+
+<p align="left">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-181818?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
-  <a href="https://www.instagram.com/apenasodg/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://dg-dev-app.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-181818?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ <em>"Transformando desafios em soluções digitais."</em>
+  Feito com 💙 por Dg
 </p>
