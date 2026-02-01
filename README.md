@@ -25,21 +25,21 @@
 <p align="start">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=DgDevHub&show_icons=true&theme=radical&hide_border=true"
-    height="165"
+    height="160"
   />
 </p>
 
 <p align="start">
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DgDevHub&layout=compact&theme=radical&hide_border=true"
-    height="165"
+    height="160"
   />
 </p>
 
 <p align="start">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=DgDevHub&theme=radical&hide_border=true"
-    height="165"
+    height="160"
   />
 </p>
 
