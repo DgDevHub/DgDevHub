@@ -21,7 +21,7 @@
 - 🛠️ Foco em soluções simples, performáticas e escaláveis  
 - 📍 Praia Grande, SP
 
-  <p align="center">
+  <p align="start">
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=DgDevHub&show_icons=true&theme=radical&hide_border=true"
     height="165"
