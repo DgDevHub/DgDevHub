@@ -2,7 +2,7 @@
 <img 
   src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1771459200&v=beta&t=M27hQyjt4kLg5pZdX2xbb2OU0FVvIwALM2Pq7w-ELWw"
   alt="Dataset Card"
-  style="width: 100%; height: 100px; object-fit: cover;"
+  style="width: 100%; height: 250px; object-fit: cover;"
 />
 
 <p align="center">
