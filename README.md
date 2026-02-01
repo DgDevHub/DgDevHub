@@ -1,25 +1,26 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM" width="96%" height="210px" align="center"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQE7c4p-3cerug/profile-displaybackgroundimage-shrink_350_1400/B4DZkSKGAqIYAY-/0/1756946260576?e=1766016000&v=beta&t=SnUO-1ZE7Y7DaUbeKdTukDDe9btYIPb6F6JZfDaRgqM" width="100%" height="210px"/>
 
 ---
 
 # 👋 Olá, eu sou o Dg!
 
 Sou desenvolvedor **Full Stack**, apaixonado por tecnologia, design e soluções criativas.  
-Transformo ideias em experiências digitais funcionais, modernas e bem pensadas.
+Gosto de transformar ideias em experiências digitais modernas, funcionais e bem pensadas.
 
 ---
 
-<a href="https://dg-dev-app.vercel.app/" target="_blank" title="Portfólio">
-  <- Visite meu Portfólio ->
-</a>
+🔗 **Portfólio**  
+👉 https://dg-dev-app.vercel.app/
 
 ---
 
-## 📊 Estatísticas GitHub
+## 📊 Estatísticas do GitHub
+
+> Essas estatísticas usam serviços externos estáveis (não dependem de workflow)
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DgDevHub&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api?username=DgDevHub&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
     height="165"
   />
   <img 
@@ -47,7 +48,7 @@ Transformo ideias em experiências digitais funcionais, modernas e bem pensadas.
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST_API-006400?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/API_REST-006400?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Microsserviços-FF6F61?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/POO-9C27B0?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
@@ -57,7 +58,7 @@ Transformo ideias em experiências digitais funcionais, modernas e bem pensadas.
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge"/>
 </p>
 
 ### 🧰 Ferramentas & Tecnologias
@@ -76,11 +77,11 @@ Transformo ideias em experiências digitais funcionais, modernas e bem pensadas.
 ---
 
 ## 🏆 Certificações
-- ✔️ **Módulo 1 – Programadores do Amanhã**  
-HTML, CSS, Git, GitHub, JSON, Fundamentos de Programação, UI/UX  
-- ✔️ **Módulo 2 – Programadores do Amanhã**  
+- ✔️ **Programadores do Amanhã – Módulo 1**  
+HTML, CSS, Git, GitHub, JSON, Fundamentos de Programação e UI/UX  
+- ✔️ **Programadores do Amanhã – Módulo 2**  
 JavaScript, API REST, Front-End e Back-End  
-- ✔️ **Módulo 3 – Programadores do Amanhã**  
+- ✔️ **Programadores do Amanhã – Módulo 3**  
 Node.js, MySQL, SQLite, Microsserviços e Projetos Full Stack  
 
 ---
@@ -93,33 +94,35 @@ Node.js, MySQL, SQLite, Microsserviços e Projetos Full Stack
 
 ## 💼 Experiência
 - 🏢 **Trainee – Criptonic & Co.**  
-Atuação no desenvolvimento de sistemas web e mobile com React, Node.js, TypeScript, Next.js e microsserviços.
+Desenvolvimento de aplicações web e mobile utilizando React, Node.js, TypeScript, Next.js e arquitetura de microsserviços.
 
 ---
 
 ## 🔗 Vamos nos conectar?
 
-<p align="left">
-  <a href="https://api.whatsapp.com/send?phone=5575988258686" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
+<p>
+  <a href="https://api.whatsapp.com/send?phone=5575988258686">
+    <img src="https://img.shields.io/badge/WhatsApp-25d366?style=flat-square&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/apenasodg/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+  <a href="https://www.instagram.com/apenasodg/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/diego-silva-de-carvalho-82581a326/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/diegoo.silva.1800/" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
+  <a href="https://www.facebook.com/diegoo.silva.1800/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🐍 Jogo da Cobrinha (contribuições)
+## 🐍 Jogo da Cobrinha (Contribuições)
+
+> ⚠️ Esse SVG só aparece **depois** que o workflow rodar ao menos uma vez
 
 <p align="center">
-  <img src="https://github.com/DgDevHub/DgDevHub/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DgDevHub/DgDevHub/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
